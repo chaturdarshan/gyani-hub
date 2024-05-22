@@ -1,0 +1,10 @@
+- Open the application in your web browser and start contributing and reading content.
+
+## Contributors
+
+- Prof. Ashwini Bamanikar
+- Team of 4 developers
+
+## License
+
+This project is licensed under the MIT License.
